@@ -78,6 +78,7 @@
 [![Product Name Screen Shot][product-screenshot]]("images/screenshot.png")
 
 Move-it te permite utilizar do melhor que o método pomodoro tem a oferecer com desafios que promovem o bem estar do corpo.
+Projeto retirado da Next Level Week da [![Rocketseat]]("https://www.rocketseat.com.br/").
 
 ### Rode com
 
