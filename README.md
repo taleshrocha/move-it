@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]("./images/screenshot.png")
+[![Product Name Screen Shot][product-screenshot]]
 
 Moveit is a high productivity platform to you achieve your goals. It's inspired in the pomodoro method and it adds physical tasks for the user wellbeing.<br />
 
@@ -92,7 +92,7 @@ Run the application in localhost with
    
 It will look something like this:
 
-[![Alt Text][usage-gif]]("./images/use-1.gif")
+[![Alt Text][usage-gif]](./images/use-1.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +123,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This project was possible by [Rocketseat]("https://www.rocketseat.com.br/") Next Level Week 4.
+This project was possible by [Rocketseat](https://www.rocketseat.com.br/) Next Level Week 4.
+
+* [![Next][Next.js]][Next-url]
 
 <div align="center">
 <a href="https://github.com/taleshrocha">
