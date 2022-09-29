@@ -59,8 +59,8 @@ Moveit is a high productivity platform to you achieve your goals. It's inspired 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![next-shield][Next.js]][next-url]
+* [![react-shield][React.js]][react-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,27 +92,31 @@ Run the application in localhost with
    
 It will look something like this:
 
-[![Use example][product-gif]]("./images/use-1.gif")
+![Alt Text][usage-gif]("./images/use-1.gif")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-* [X](Timer)
-* [X](Levels)
-* [X](Level up modal)
-* [](Login page)
-* [](Rank page)
+- [x] Add a timer
+- [x] Create levels
+- [x] Create level up modal
+- [ ] Login page
+- [ ] Rank page (best players)
+- [ ] Multi-language Support
+    - [ ] English
+    - [ ] French
+    - [ ] Spanish
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/taleshrocha/move-it/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +127,7 @@ This project was possible by [Rocketseat]("https://www.rocketseat.com.br/") Next
 
 <div align="center">
 <a href="https://github.com/taleshrocha">
- <img style="border-radius: 50%;" src="https://github.com/taleshrocha" width="100px;" alt="Tales Rocha's profile photo"/>
+ <img style="border-radius: 50%;" src="https://github.com/taleshrocha.png" width="100px;" alt="Tales Rocha's profile photo"/>
  <br />
  <sub><b>Tales Rocha</b></sub></a>
 
@@ -134,16 +138,16 @@ Done with ❤️ by  Tales Rocha 👋🏽 Contact me!
 <!-- REFERENCES -->
 [product-screenshot]: images/screenshot.png
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/taleshrocha/move-it.svg?style=for-the-badge
+[contributors-url]: https://github.com/taleshrocha/move-it/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taleshrocha/move-it.svg?style=for-the-badge
+[forks-url]: https://github.com/taleshrocha/move-it/network/members
+[stars-shield]: https://img.shields.io/github/stars/taleshrocha/move-it.svg?style=for-the-badge
+[stars-url]: https://github.com/taleshrocha/move-it/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taleshrocha/move-it.svg?style=for-the-badge
+[issues-url]: https://github.com/taleshrocha/move-it/issues
+[license-shield]: https://img.shields.io/github/license/taleshrocha/move-it.svg?style=for-the-badge
+[license-url]: https://github.com/taleshrocha/move-it/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
