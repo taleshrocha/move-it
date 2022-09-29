@@ -59,8 +59,8 @@ Moveit is a high productivity platform to you achieve your goals. It's inspired 
 
 ### Built With
 
-* [![next-shield][Next.js]][next-url]
-* [![react-shield][React.js]][react-url]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ Run the application in localhost with
    
 It will look something like this:
 
-![Alt Text][usage-gif]("./images/use-1.gif")
+[![Alt Text][usage-gif]]("./images/use-1.gif")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +152,7 @@ Done with ❤️ by  Tales Rocha 👋🏽 Contact me!
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 
-[next-shield]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
-[react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
