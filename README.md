@@ -92,7 +92,7 @@ Run the application in localhost with
    
 It will look something like this:
 
-[![Alt Text][usage-gif]](./images/use-1.gif)
+![](./images/use-1.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
