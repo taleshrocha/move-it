@@ -125,8 +125,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 This project was possible by [Rocketseat](https://www.rocketseat.com.br/) Next Level Week 4.
 
-* [![Next][Next.js]][Next-url]
-
 <div align="center">
 <a href="https://github.com/taleshrocha">
  <img style="border-radius: 50%;" src="https://github.com/taleshrocha.png" width="100px;" alt="Tales Rocha's profile photo"/>
