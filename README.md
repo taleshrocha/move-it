@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 Moveit is a high productivity platform to you achieve your goals. It's inspired in the pomodoro method and it adds physical tasks for the user wellbeing.<br />
 
